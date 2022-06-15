@@ -210,15 +210,15 @@ new Vue({
           favorited: false
         },
         {
-          name: "Creep",
-          artist: "Radiohead",
+          name: "Die for you",
+          artist: "The weekend",
           cover: "https://i.pinimg.com/736x/b9/e8/7d/b9e87d96f765b5685b277ae98fdd2793.jpg",
           source: "music/die.mp3",
           url: "https://www.youtube.com/watch?v=tn_bj5YBq3Y",
           favorited: false
         },
         {
-          name: "Die for you",
+          name: "Creep",
           artist: "Radiohead",
           cover: "https://http2.mlstatic.com/D_NQ_NP_702369-MPE43300635884_082020-O.jpg",
           source: "music/crip.mp3",
